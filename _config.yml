@@ -1,4 +1,10 @@
 ##########
+# collectionbuilder-gh
+# Jekyll Digital Collection Generator, designed for GitHub Pages
+# https://github.com/CollectionBuilder/collectionbuilder-gh
+##########
+
+##########
 # URL VARIABLES [optional if using GitHub Pages!]
 #
 # url is site domain, full URL to the production location of your collection
@@ -21,7 +27,7 @@ tagline: A digital exhibition
 # this description might appear in search result lists, keep around 160 characters max
 description: "A digital exhibition of the Lilly's materials."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Brandis Malone
+author: BrandisMalone
 
 ##########
 # COLLECTION SETTINGS
@@ -39,8 +45,6 @@ metadata: BH1450-metadata
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
-
- bv$#4
 ##########
 # GOOGLE SERVICES [optional!]
 #
