@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: BH-1450 Final Project 
+title: Publishers Bindings 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A digital exhibition
+tagline: An exhibition
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A digital exhibition of the Lilly's materials."
+description: "A digital exhibition of the Lilly Library's publishers' bindings."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: BrandisMalone
 
@@ -40,8 +40,8 @@ metadata: BH1450-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Lilly Library"
+organization-link: https://libraries.indiana.edu/lilly-library
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
