@@ -14,4 +14,4 @@ credits: true
 
 ## About the Collection
 
-This is a digital exhibition of some of the Lilly's aljsdf materials, ranging from about 0000-0000. 
+This is a digital exhibition displaying of some of the Lilly Library's publishers' bindings. 
