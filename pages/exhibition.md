@@ -1,5 +1,5 @@
 ---
-title: The Exhibition
+title: Exhibition
 layout: page
 permalink: /exhibition.html
 ---
