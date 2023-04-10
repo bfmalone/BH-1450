@@ -2,5 +2,6 @@
   <div class="card-body">
     {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{% endif %}
     {% if include.text %}<h5 class="card-text">{{ include.text }}</h5>{% endif %}
+    {% if about > 0 %}<a class="btn btn-outline-primary" href="{{ '/about.html' | relative_url }}" >Learn More &raquo;</a>{% endif %}
   </div>
  
