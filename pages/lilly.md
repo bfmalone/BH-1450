@@ -3,9 +3,7 @@ title: The Lilly Library
 layout: page
 permalink: /lilly.html
 ---
-{% include feature/image.html objectid="/objects/lilly_library.jpg" height="50" %}
+{% include feature/image.html objectid="/objects/lilly_library.jpg" height="25" %}
 
 ## The Lilly Library
-The Lilly Library, built in 1960, is a rare books and manuscripts thing ajskldfjlsdjflsdjflksdjfkljsdfl
-ajskldfjlsdjfsd
-jklasjdklfjsldfjlsdfjlasdjflksdjflsadjflsdjflsdf. 
+The Lilly Library is a world-renowned rare books and manuscripts library at the heart of Indiana University’s campus in Bloomington, Indiana. 
