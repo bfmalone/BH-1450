@@ -1,7 +1,9 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Author,
+compiler,Compiler
 illustrator,Illustrator,
+bindingdesigner,Binding Designer
 edition,Edition
 publisher,Publisher
 date,Date,
@@ -9,5 +11,3 @@ description,Description,
 subject,Subjects,true
 exlibris,Ex Libris,
 callnumber,Call Number
-iucat,Catalog Record
-format,Format,
