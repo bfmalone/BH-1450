@@ -1,7 +1,7 @@
 ---
 title: Binding Designers
 layout: page
-permalink: /binddesigny.html
+permalink: /binddesign.html
 ---
 <div class="row">
   <div class="col-md-12">
