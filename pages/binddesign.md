@@ -11,29 +11,23 @@ permalink: /binddesign.html
   </div>
     </div>
     
-  <div class="col-md-4">  
-        <div class="card" style="border-radius: 15px;">
-          <div class="card-body p-4">
-            <div class="d-flex text-black">
-              <div class="flex-shrink-0">
-                <img src= "/objects/margaret_armstrong.jpg"
-                  class="img-fluid"
-                  style="width: 180px; border-radius: 10px;">
-              </div>
-              <div class="flex-grow-1 ms-3">
-                <h5 class="mb-1">Margaret Armstrong</h5>
-                <p class="mb-2 pb-1" style="color: #2b2a2a;">1867-1944</p>
-                <div class="d-flex justify-content-start rounded-3 p-2 mb-2"
-                  style="background-color: #efefef;">
-                  <div>
-                    <p class="mb-2 pb-1" style="color: #2b2a2a;">Margaret Armstrong was an American binding designer and illustrator who made pretty bindings! I need to figure out what to say about all these guys...</p>
-                  </div>
-                  </div>
-                </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+<div class="card mb-3" style="max-width: 540px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img
+        src="/objects/margaret_armstrong.jpg"
+        class="img-fluid rounded-start"
+      />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Margaret Armstrong</h5>
+        <p class="card-text">
+          <small class="text-muted">1867-1944>
+        <p class="card-text">
+         Is this working?.
+        </p>
       </div>
-</section>
+    </div>
+  </div>
+</div>
