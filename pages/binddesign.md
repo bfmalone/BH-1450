@@ -11,10 +11,7 @@ permalink: /binddesign.html
   </div>
     </div>
     
-<section class="vh-100" style="background-color: #9de2ff;">
-  <div class="container py-5 h-100">
-    <div class="row d-flex justify-content-center align-items-center h-100">
-      <div class="col col-md-9 col-lg-7 col-xl-5">
+  <div class="col-md-4">  
         <div class="card" style="border-radius: 15px;">
           <div class="card-body p-4">
             <div class="d-flex text-black">
@@ -39,6 +36,4 @@ permalink: /binddesign.html
           </div>
         </div>
       </div>
-    </div>
-  </div>
 </section>
