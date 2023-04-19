@@ -11,7 +11,7 @@ permalink: /binddesign.html
   </div>
     </div>
 
-<div class="row row-cols-1 row-cols-md-2 g-4">
+<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card">
       <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/041.webp" class="card-img-top" alt="Hollywood Sign on The Hill"/>
