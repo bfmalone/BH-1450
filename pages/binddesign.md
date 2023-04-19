@@ -19,7 +19,7 @@ permalink: /binddesign.html
           <div class="card-body p-4">
             <div class="d-flex text-black">
               <div class="flex-shrink-0">
-                <img src= "/objects/chambers_bindings.jpg"
+                <img src= "/objects/margaret_armstrong.jpg"
                   class="img-fluid"
                   style="width: 180px; border-radius: 10px;">
               </div>
