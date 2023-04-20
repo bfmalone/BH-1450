@@ -13,7 +13,7 @@ permalink: /binddesign.html
 
    <div class="row row-cols-2 g-3">
   <div class="col">
-    <div class="card mb-3" style="max-width: 540px;">
+    <div class="card mb-3" style="max-width: 100px;">
       <div class="row g-0">
         <div class="col-md-4">
           <img
@@ -35,7 +35,7 @@ permalink: /binddesign.html
     </div>
   </div>
   <div class="col">
-    <div class="card mb-3" style="max-width: 540px;">
+    <div class="card mb-3" style="max-width: 100px;">
       <div class="row g-0">
         <div class="col-md-4">
           <img
@@ -57,7 +57,7 @@ permalink: /binddesign.html
     </div>
   </div>
   <div class="col">
-    <div class="card mb-3" style="max-width: 540px;">
+    <div class="card mb-3" style="max-width: 100px;">
       <div class="row g-0">
         <div class="col-md-4">
           <img
@@ -80,7 +80,7 @@ permalink: /binddesign.html
     </div>
   </div>
   <div class="col">
-    <div class="card mb-3" style="max-width: 540px;">
+    <div class="card mb-3" style="max-width: 1000px;">
       <div class="row g-0">
         <div class="col-md-4">
           <img
