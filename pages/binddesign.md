@@ -14,9 +14,9 @@ permalink: /binddesign.html
  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
   <div class="col">
     <div class="card">
-      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/041.webp" class="card-img-top" alt="Hollywood Sign on The Hill">
+      <img src="https://www.nysoclib.org/sites/default/files/events/BookBeautiful_Armstrong.jpg" class="card-img-top")>
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Margaret ARmstrong</h5>
         <p class="card-text">
           This is a longer card with supporting text below as a natural lead-in to
           additional content. This content is a little bit longer.
@@ -26,9 +26,9 @@ permalink: /binddesign.html
   </div>
   <div class="col">
     <div class="card">
-      <img src="https://www.nysoclib.org/sites/default/files/events/BookBeautiful_Armstrong.jpg" class="card-img-top">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Maurice_Brazil_Prendergast.jpg" class="card-img-top">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Maurice Prendergast</h5>
         <p class="card-text">
           This is a longer card with supporting text below as a natural lead-in to
           additional content. This content is a little bit longer.
@@ -38,9 +38,9 @@ permalink: /binddesign.html
   </div>
   <div class="col">
     <div class="card">
-      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/043.webp" class="card-img-top" alt="Los Angeles Skyscrapers">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Alice_Cordelia_Morse_ca_1893.jpg" class="card-img-top">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Alice C. Morse</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
           additional content.</p>
       </div>
