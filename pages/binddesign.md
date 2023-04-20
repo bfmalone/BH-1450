@@ -11,94 +11,74 @@ permalink: /binddesign.html
   </div>
     </div>
 
-   <div class="row row-cols-2 g-3">
+ <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
   <div class="col">
-    <div class="card mb-3" style="max-width: 100px;">
-      <div class="row g-0">
-        <div class="col-md-4">
-          <img
-            src="https://www.nysoclib.org/sites/default/files/events/BookBeautiful_Armstrong.jpg"
-          />
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h5 class="card-title">Margaret Armstrong</h5>
-            <p class="card-text">
-              <small class="text-muted">1867-1944</small>
-            </p>
-            <p class="card-text">
-               How doth the little crocodile improve its shinging tail, and pour the waters of the Nile on every golden scale, how cheefully he seems to grin, how neatly spreads his claws, and welcomes little fishes in, with gently, smiling, jaws.
-            </p>
-          </div>
-        </div>
+    <div class="card">
+      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/041.webp" class="card-img-top" alt="Hollywood Sign on The Hill">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">
+          This is a longer card with supporting text below as a natural lead-in to
+          additional content. This content is a little bit longer.
+        </p>
       </div>
     </div>
   </div>
   <div class="col">
-    <div class="card mb-3" style="max-width: 100px;">
-      <div class="row g-0">
-        <div class="col-md-4">
-          <img
-            src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Maurice_Brazil_Prendergast.jpg"
-          />
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h5 class="card-title">Maurice Prendergast</h5>
-            <p class="card-text">
-              <small class="text-muted">1858-1924</small>
-            </p>
-            <p class="card-text">
-               How doth the little crocodile improve its shinging tail, and pour the waters of the Nile on every golden scale, how cheefully he seems to grin, how neatly spreads his claws, and welcomes little fishes in, with gently, smiling, jaws.
-            </p>
-          </div>
-        </div>
+    <div class="card">
+      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/042.webp" class="card-img-top" alt="Palm Springs Road">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">
+          This is a longer card with supporting text below as a natural lead-in to
+          additional content. This content is a little bit longer.
+        </p>
       </div>
     </div>
   </div>
   <div class="col">
-    <div class="card mb-3" style="max-width: 100px;">
-      <div class="row g-0">
-        <div class="col-md-4">
-          <img
-            src="https://mdbcdn.b-cdn.net/wp-content/uploads/2020/06/vertical.webp"
-          />
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              <small class="text-muted">Last updated 3 mins ago</small>
-            </p>
-            <p class="card-text">
-              This is a wider card with supporting text below as a natural lead-in to
-              additional content. This content is a little bit longer.
-            </p>
-          </div>
-        </div>
+    <div class="card">
+      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/043.webp" class="card-img-top" alt="Los Angeles Skyscrapers">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+          additional content.</p>
       </div>
     </div>
   </div>
   <div class="col">
-    <div class="card mb-3" style="max-width: 1000px;">
-      <div class="row g-0">
-        <div class="col-md-4">
-          <img
-            src="https://mdbcdn.b-cdn.net/wp-content/uploads/2020/06/vertical.webp"
-          />
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              <small class="text-muted">Last updated 3 mins ago</small>
-            </p>
-            <p class="card-text">
-              This is a wider card with supporting text below as a natural lead-in to
-              additional content. This content is a little bit longer.
-            </p>
-          </div>
-        </div>
+    <div class="card">
+      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/044.webp" class="card-img-top" alt="Skyscrapers">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">
+          This is a longer card with supporting text below as a natural lead-in to
+          additional content.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/046.webp" class="card-img-top" alt="Skyscrapers">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">
+          This is a longer card with supporting text below as a natural lead-in to
+          additional content. This content is a little bit longer.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/050.webp" class="card-img-top" alt="Skyscrapers">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">
+          This is a longer card with supporting text below as a natural lead-in to
+          additional content. This content is a little bit longer.
+        </p>
       </div>
     </div>
   </div>
