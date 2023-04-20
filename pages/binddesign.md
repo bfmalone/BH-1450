@@ -28,6 +28,3 @@ permalink: /binddesign.html
         How doth the little crocodile improve its shinging tail, and pour the waters of the Nile on every golden scale, how cheefully he seems to grin, how neatly spreads his claws, and welcomes little fishes in, with gently, smiling, jaws...
         </p>
       </div>
-    </div>
-  </div>
-</div>
