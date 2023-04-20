@@ -21,9 +21,9 @@ permalink: /binddesign.html
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Maurice Prendergast</h5>
+        <h5 class="card-title">Margaret Armstrong</h5>
         <p class="card-text">
-          <small class="text-muted">1858-1924</small>
+          <small class="text-muted">1867-1944</small>
         <p class="card-text">
         How doth the little crocodile improve its shinging tail, and pour the waters of the Nile on every golden scale, how cheefully he seems to grin, how neatly spreads his claws, and welcomes little fishes in, with gently, smiling, jaws...
         </p>
@@ -39,9 +39,9 @@ permalink: /binddesign.html
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Margaret Armstrong</h5>
+        <h5 class="card-title">Maurice Prendergast</h5>
         <p class="card-text">
-          <small class="text-muted">1867-1944</small>
+          <small class="text-muted">1858-1924</small>
         <p class="card-text">
         How doth the little crocodile improve its shinging tail, and pour the waters of the Nile on every golden scale, how cheefully he seems to grin, how neatly spreads his claws, and welcomes little fishes in, with gently, smiling, jaws...
         </p>
