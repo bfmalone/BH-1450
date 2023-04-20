@@ -26,7 +26,7 @@ permalink: /binddesign.html
   </div>
   <div class="col">
     <div class="card">
-      <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/042.webp" class="card-img-top" alt="Palm Springs Road">
+      <img src="https://www.nysoclib.org/sites/default/files/events/BookBeautiful_Armstrong.jpg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">
