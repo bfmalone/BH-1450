@@ -14,7 +14,7 @@ permalink: /binddesign.html
  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
   <div class="col">
     <div class="card">
-      <img src="file:///var/folders/4c/2gj436s130nclx3b87nd54c00000gn/T/TemporaryItems/NSIRD_screencaptureui_chw9mu/Screen%20Shot%202023-04-20%20at%2010.31.53%20AM.png" class="card-img-top">
+      <img src="https://www.nysoclib.org/sites/default/files/events/BookBeautiful_Armstrong.jpg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Margaret ARmstrong</h5>
         <p class="card-text">
