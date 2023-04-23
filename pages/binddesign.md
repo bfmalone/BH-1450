@@ -48,7 +48,7 @@ permalink: /binddesign.html
   </div>
   <div class="col">
     <div class="card">
-      <img src=/objects/road_arkady.jpg class="card-img-top">
+      <img src="https://raw.githubusercontent.com/bfmalone/lillylibrarybindings/main/objects/road_arkady.jpg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Samuel M. Palmer</h5>
         <p class="card-text">
@@ -70,7 +70,7 @@ permalink: /binddesign.html
   </div>
   <div class="col">
     <div class="card">
-      <img src= /objects/vista_english.jpg class="card-img-top">
+      <img src= "https://raw.githubusercontent.com/bfmalone/lillylibrarybindings/main/objects/vista_english.jpg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Bertha Stuart</h5>
         <p class="card-text">
