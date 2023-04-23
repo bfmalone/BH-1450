@@ -12,7 +12,6 @@ permalink: /lilly.html
       <div class="text-white">
         <h1 class="mb-3">Lilly Library</h1>
         <h4 class="mb-3">Bloomington, Indiana</h4>
-        <a class="btn btn-outline-light btn-lg" href="#!" role="button">Call to action</a>
       </div>
     </div>
   </div>
