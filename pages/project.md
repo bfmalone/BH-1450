@@ -21,4 +21,4 @@ The History of the Book from 1450 to the Present is taught by Rebecca Baumann, H
 * Raven, James, and Marie-Françoise Cachin. “Industrialization.” Essay. In The Oxford Illustrated History of the Book, 281–308. Oxford, United Kingdom: Oxford University Press, 2022. 
 
 ## Creator 
-Brandis Malone is a second-year master’s student in a dual Russian and library science program. She is specializing in archives and records management, as well as rare books and manuscripts. After completing her degree in Spring 2024 she plans to work as a rare book cataloger. 
+Brandis Malone is a second-year master’s student in the dual Russian and library science program at Indiana University. She is specializing in archives and records management, as well as rare books and manuscripts. After completing her degree in spring 2024 she plans to work as a rare books cataloger. 
