@@ -4,7 +4,7 @@ layout: page
 permalink: /lilly.html
 ---
 <div class="p-5 text-center bg-image rounded-3" style="
-    background-image: url('https://images.news.iu.edu/dams/3v8oz2eo3v_actual.jpg');
+    background-image: /objects/lilly_library.jpg;
     height: 400px;
   ">
   <div class="mask" style="background-color: rgba(0, 0, 0, 0.6);">
