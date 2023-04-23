@@ -4,7 +4,7 @@ layout: page
 permalink: /lilly.html
 ---
 <div class="p-5 text-center bg-image rounded-3" style="
-    background-image: "/objects/lilly_library.jpg";
+    background-image: url('https://www.codaworx.com/wp-content/uploads/2021/07/Right-Corner-Lilly-Library-1-scaled.jpg');
     height: 100px;
   ">
   <div class="mask" style="background-color: rgba(0, 0, 0, 0.6);">
