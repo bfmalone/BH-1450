@@ -9,3 +9,5 @@ cloud-fields: site.data.theme.subjects-fields
 ---
 
 ## Browse Subjects
+
+Take a look at some of the top subjects in our exhibition!
