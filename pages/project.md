@@ -3,7 +3,7 @@ title: Project
 layout: page
 permalink: /project.html
 ---
-{% include feature/nav-menu.html sections="Project;Course;Project Bibliography;Creator" %} 
+{% include feature/nav-menu.html sections="Project;Course;Project Bibliography;Creator" align="center" %} 
 
 ## Project
 This digital exhibition was created by Brandis Malone as a final project for The Book 1450 to the Present. The goal of this assignment was for students to analyze an aspect of book history they found particularly interesting. 
