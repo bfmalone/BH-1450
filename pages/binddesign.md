@@ -1,5 +1,5 @@
 ---
-title: Binding Designers
+title: Known Designers in this Exhibition
 layout: page
 permalink: /binddesign.html
 ---
