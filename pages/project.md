@@ -3,7 +3,7 @@ title: Project
 layout: page
 permalink: /project.html
 ---
-{% include feature/image.html objectid="first;love;farmer" %}
+{% include feature/image.html /objects/first.jpg;/objects/love.jpg;/objects/farmer.jpg %}
 
 {% include feature/nav-menu.html sections="Project;Course;Project Bibliography;Creator" %} 
 
