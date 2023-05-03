@@ -4,7 +4,9 @@ layout: page
 permalink: /signatures.html
 ---
 ## How Do We Know Who These Designers Were?
-Unfortunately there are many designers whose names have been lost to history, especially before binding signatures were common. Binding signatures are essentially a small little signature from the artist hidden somewhere on the final design, often a combination of their initials in one small symbol.
+Unfortunately, it can be incredibly difficult to identify the artists behind publishers' bindings. If they weren't a well-known artist, or had an identifiable style, such as Thomas Watson Ball, then the only way to truly identity them is through signatures. These signatures, also known as monograms, are very small and often hidden within the final cover design. Signatures can be a combination of an artist's initials in one symbol, or can be written out separately. It truly depended on the artist, and so these signatures come in a variety of forms. 
+
+They weren't really found on bindings until the end of the 19th century, when they became more common. For American book binding designers, there is a clear divide, when after 1894 it became standard for most artists to include some form of their signature in their final design. As a result, many artists who didn't sign their work are lost to history. But for those that did, we're able to know their work, learn more about them, and see how they contributed to this unique industry. 
   
 ## Signatures in this Exhibition
 
@@ -38,7 +40,7 @@ Unfortunately there are many designers whose names have been lost to history, es
       <div class="card-body">
         <h5 class="card-title">Alice C. Morse</h5>
         <p class="card-text">
-          A combined "A" and "M".
+          A conjoined "A" and "M", though she also separated them. For an example of separate initials look at "A knight of the nets". 
         </p>
       </div>
     </div>
@@ -49,7 +51,7 @@ Unfortunately there are many designers whose names have been lost to history, es
       <div class="card-body">
         <h5 class="card-title">Samuel M. Palmer</h5>
         <p class="card-text">
-          His initials along with the date of this particular binding "1903".
+          His initials along with the date of this particular binding, "1903".
         </p>
       </div>
     </div>
