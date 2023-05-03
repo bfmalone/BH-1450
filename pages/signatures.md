@@ -27,7 +27,7 @@ Unfortunately there are many designers whose names have been lost to history, es
         <h5 class="card-title">Signature of Adrian Iorio</h5>
         <p class="card-text">
           A large "A" with an "I" drawn down the middle.
-        </p
+        </p>
       </div>
     </div>
   </div>
