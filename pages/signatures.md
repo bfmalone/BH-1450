@@ -3,7 +3,7 @@ title: Signatures
 layout: page
 permalink: /signatures.html
 ---
-{% include feature/image.html objectid="objects/mouse.jpg;objects/ship.jpg;objects/tackle.jpg" %}
+{% include feature/image.html objectid="objects/mouse.jpg;objects/tackle.jpg;objects/ship.jpg" %}
 
 {% include feature/nav-menu.html sections="How Can We Identify These Designers?;Signatures in this Exhibition" %}
 
