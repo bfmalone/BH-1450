@@ -10,7 +10,7 @@ permalink: /signatures.html
 ## How Can We Identify These Designers?
 Unfortunately, it can be incredibly difficult to identify the artists behind publishers' bindings. If they weren't documented somewhere in the book itself, a well-known artist, or didn't have identifiable style, such as Thomas Watson Ball, then the only way to truly pinpoit who they were is through signatures. These signatures, also known as monograms, are very small and often hidden within the final cover design. Signatures can be a combination of an artist's initials in one symbol, or can be written out separately. It truly depended on the artist, and so these signatures come in a variety of forms. 
 
-They weren't really found on bindings until the end of the 19th century, when they became more common. For American book binding designers, there is a clear divide, when after 1894 it became standard for most artists to include some form of their signature in their final design. As a result, many artists who didn't sign their work are lost to history. But for those that did, we're able to know their work, learn more about them, and see how they contributed to this unique industry. 
+They weren't really found on bindings until the end of the 19th century, when they became more common. For American book binding designers, there is a clear divide, when after 1894 it became standard for most artists to include some form of their signature in their final design.[^1]. As a result, many artists who didn't sign their work are lost to history. But for those that did, we're able to know their work, learn more about them, and see how they contributed to this unique industry. 
   
 ## Signatures in this Exhibition
 
@@ -94,3 +94,6 @@ They weren't really found on bindings until the end of the 19th century, when th
     </div>
   </div>
 </div>
+
+
+[^1]: Minsky, Richard. The Art of American Book Covers: 1875-1930. New York, NY: George Braziller, 2013. 9.
