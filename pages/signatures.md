@@ -38,7 +38,7 @@ Unfortunately there are many designers whose names have been lost to history, es
         <h5 class="card-title">Alice C. Morse</h5>
         <p class="card-text">
           A combined "A" and "M".
-        </p
+        </p>
       </div>
     </div>
   </div>
@@ -49,7 +49,7 @@ Unfortunately there are many designers whose names have been lost to history, es
         <h5 class="card-title">Samuel M. Palmer</h5>
         <p class="card-text">
           His initials along with the date of this particular binding "1903".
-        </p
+        </p>
       </div>
     </div>
   </div>
@@ -60,7 +60,7 @@ Unfortunately there are many designers whose names have been lost to history, es
         <h5 class="card-title">Evelyn W. Clark</h5>
         <p class="card-text">
           Her initials.
-        </p
+        </p>
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@ Unfortunately there are many designers whose names have been lost to history, es
         <h5 class="card-title">Decorative Designers</h5>
         <p class="card-text">
          Interlocking "DD", in the case of this binding it likely represented Lee Thayer.
-        </p
+        </p>
       </div>
     </div>
   </div>
@@ -82,7 +82,7 @@ Unfortunately there are many designers whose names have been lost to history, es
         <h5 class="card-title">Bertha Stuart</h5>
         <p class="card-text">
          Her initials.
-        </p
+        </p>
       </div>
     </div>
   </div>
