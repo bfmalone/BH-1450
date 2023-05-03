@@ -40,6 +40,11 @@ The traditional material used for gilding, spine lettering, or other designs. It
 ### Glair
 An adhesive of egg whites and vinegar put on book covers before blocking or tooling with gold leaf, which makes it stick permanently when a heated tool or die is used for the impression.[^10]
 
+
+
+
+
+
 [^1]: Glaister, 50.
 [^2]: Glaister, 49.
 [^3]: Glaister, 50.
