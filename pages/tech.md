@@ -41,6 +41,9 @@ The traditional material used for gilding, spine lettering, or other designs. It
 An adhesive of egg whites and vinegar put on book covers before blocking or tooling with gold leaf, which makes it stick permanently when a heated tool or die is used for the impression.[^10]
 
 
+##### Naturally, it would be incredibly difficult to list all of the related processes and techniques here, but if you're interested in learning about more of the development of them from the 19th century through the early 20th century check out the history page. 
+
+
 
 
 
