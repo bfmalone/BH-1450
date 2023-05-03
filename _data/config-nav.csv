@@ -2,10 +2,8 @@ display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
 Subjects,/subjects.html
-Timeline,/timeline.html
-Publishers' Bindings
-History,/history.html,Publishers' Bindings
-Techniques,/tech.html,Publishers' Bindings
+Timeline,/time.html
+History & Techniques,/tech.html
 Binding Designers
 Who They Were,/who.html,Binding Designers
 Known Designers in this Exhibition,/binddesign.html,Binding Designers
