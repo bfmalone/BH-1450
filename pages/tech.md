@@ -72,6 +72,14 @@ The traditional material used for gilding, spine lettering, or other designs. It
 ### Glair
 An adhesive of egg whites and vinegar put on book covers before blocking or tooling with gold leaf, which makes it stick permanently when a heated tool or die is used for the impression.[^17]
 
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 [^1]: Suarez, Michael Felix, H. R. Woudhuysen, and David Pearson. “Bookbinding.” Essay. In The Book: A Global History, 245–57. Oxford University Press, 2013. 247. 
 [^2]: Suarez, 253.
 [^3]: Heritage, Barbara, and Ruth-Ellen St Onge. “Bindings.” Essay. In Building the Book from the Ancient World to the Present Day. How Manuscript, Printed, and Digital Texts Are Made, 161–235. Ann Arbor, MI: Legacy Press, 2022. 190.
