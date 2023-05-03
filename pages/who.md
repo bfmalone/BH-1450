@@ -8,4 +8,4 @@ permalink: /who.html
 
 ## Who were these designers?
 
-The designers of these bindings were often hired by large publishing companies of the day, such as Dodd, Mead, & Co. Doubleday, etc. However there were a number of notable artists on their own, who were commissioned and sought after for their beautiful and detailed designs.
+The designers of these bindings were often artists hired by large publishing companies and commissioned to do work on cover art. Before binding signatures become common, its hard to identify who exactly these indivudals were if they weren't named elsewhere within the book. Near the end of the 19th century and early 20th however, it was more common for artists to sign their work. A number of these designers notable artists in their own right, and were commissioned and sought after for their beautiful and detailed designs. Some of these more documented designers are discussed in other sections of this exhibition. 
