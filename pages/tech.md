@@ -1,7 +1,7 @@
 ---
-title: Types
+title: Techniques
 layout: page
-permalink: /types.html
+permalink: /tech.html
 ---
 ## 19th Century
 ajsdlfjsldf ajlskdjflsdjfl dfjlasjdkfljsdkflj jflaksjdlkfjsldf jlajslkdfjlsd fjlasjdklfjsdlf jlajskldjflsadjflsdf.
