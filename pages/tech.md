@@ -3,7 +3,7 @@ title: Techniques
 layout: page
 permalink: /tech.html
 ---
-{% include feature/image.html objectid="objects/captain.jpg;objects/picnic.jpg;objects/song.jpg" %}
+{% include feature/image.html objectid="objects/captain.jpg;objects/song.jpg;objects/picnic.jpg" %}
 
 {% include feature/nav-menu.html sections="Blind Tooling;Blind Stamping;Gold Blocking & Tooling;Glair" %}
 
