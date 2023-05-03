@@ -20,6 +20,7 @@ The History of the Book from 1450 to the Present is taught by Rebecca Baumann, H
 "This is a course about books: beautiful books, ugly books, old books, new books. We will learn how and why books were made at different times and places, and we will also meet some of the people who made the books and think about the people who might have read the books. We will focus on the book as a cultural object—that is, a physical thing whose physicality matters and which can give us insight into the culture that created it."
 
 ## Project Bibliography
+* “Burn and Company (London): Organisations: Ra Collection: Royal Academy of Arts.” Royal Academy of Arts. https://www.royalacademy.org.uk/art-artists/organisation/burn-and-company-london.
 * Glaister, Geoffrey Ashall. Encyclopedia of the Book. New Castle, DE: Oak Knoll Press, 2001. 
 * Heritage, Barbara, and Ruth-Ellen St Onge. “Bindings.” Essay. In Building the Book from the Ancient World to the Present Day. How Manuscript, Printed, and Digital Texts Are Made, 161–235. Ann Arbor, MI: Legacy Press, 2022. 
 * Minsky, Richard. The Art of American Book Covers: 1875-1930. New York, NY: George Braziller, 2013. 
