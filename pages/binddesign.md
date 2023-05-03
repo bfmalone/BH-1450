@@ -9,7 +9,7 @@ permalink: /binddesign.html
  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
   <div class="col">
     <div class="card">
-      <img src="https://www.nysoclib.org/sites/default/files/events/BookBeautiful_Armstrong.jpg" class="card-img-top">
+      <img src="https://www.nysoclib.org/sites/default/files/events/BookBeautiful_Armstrong.jpg" class="card-img-top" height="50%">
       <div class="card-body">
         <h5 class="card-title">Margaret Armstrong</h5>
         <p class="card-text">
