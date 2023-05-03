@@ -31,6 +31,14 @@ Rise of book jackets - there’s so much room for advertising! From here on out 
 ### 1930
 This is effectively the end of decorated cloth bindings. Dust jackets have become standard for hardcover books and there's an increase in paperback publishing. In the United States, the Great Depression looms and makes the extra expense unsustainable as well. [^7]
 
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 ## Techniques
 The effort that went into creating decorated cloth bindings was no small feat, and the specifics of their production are an incredibly interesting facet of this history. The definitions below cover a handful of essential materials, tools, and techniques that were utilized. All definitions come from the second edition of Geoffry Glaister's Encyclopedia of the Book, and their page numbers are denoted in linked footnotes. 
 
