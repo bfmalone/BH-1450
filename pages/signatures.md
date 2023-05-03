@@ -14,6 +14,9 @@ Unfortunately there are many designers whose names have been lost to history, es
       <img src="objects/armstrong.jpg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Signature of Margaret Armstrong</h5>
+        <p class="card-text">
+          An interlocking "M" and "A".
+        </p>
       </div>
     </div>
   </div>
@@ -22,6 +25,9 @@ Unfortunately there are many designers whose names have been lost to history, es
       <img src="objects/iorio.jpg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Signature of Adrian Iorio</h5>
+        <p class="card-text">
+          A large "A" with an "I" drawn down the middle.
+        </p
       </div>
     </div>
   </div>
@@ -29,7 +35,10 @@ Unfortunately there are many designers whose names have been lost to history, es
     <div class="card">
       <img src="objects/morse.jpg" class="card-img-top">
       <div class="card-body">
-        <h5 class="card-title">Signature of Alice C. Morse</h5>
+        <h5 class="card-title">Alice C. Morse</h5>
+        <p class="card-text">
+          A combined "A" and "M".
+        </p
       </div>
     </div>
   </div>
@@ -37,7 +46,10 @@ Unfortunately there are many designers whose names have been lost to history, es
     <div class="card">
       <img src="objects/palmer.jpg" class="card-img-top">
       <div class="card-body">
-        <h5 class="card-title">Signature of Samuel M. Palmer</h5>
+        <h5 class="card-title">Samuel M. Palmer</h5>
+        <p class="card-text">
+          His initials along with the date of this particular binding "1903".
+        </p
       </div>
     </div>
   </div>
@@ -45,7 +57,10 @@ Unfortunately there are many designers whose names have been lost to history, es
     <div class="card">
       <img src="objects/clark.jpg" class="card-img-top">
       <div class="card-body">
-        <h5 class="card-title">Signature of Evelyn W. Clark</h5>
+        <h5 class="card-title">Evelyn W. Clark</h5>
+        <p class="card-text">
+          Her initials.
+        </p
       </div>
     </div>
   </div>
@@ -53,7 +68,21 @@ Unfortunately there are many designers whose names have been lost to history, es
     <div class="card">
       <img src= "objects/dd.jpg" class="card-img-top">
       <div class="card-body">
-        <h5 class="card-title">Signature of the Decorative Designers, a firm that employed a number of artists.</h5>
+        <h5 class="card-title">Decorative Designers</h5>
+        <p class="card-text">
+         Interlocking "DD", in the case of this binding it likely represented Lee Thayer.
+        </p
+      </div>
+    </div>
+  </div>
+    <div class="col">
+    <div class="card">
+      <img src= "objects/bertha.jpg" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Bertha Stuart</h5>
+        <p class="card-text">
+         Her initials.
+        </p
       </div>
     </div>
   </div>
